@@ -1,0 +1,15 @@
+{
+  "name": "mongoquery",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "mongoquery.js",
+  "scripts": {
+    "start": "node mongoquery.js",
+    "test": "node mongoquery.js"
+  },
+  "author": "Kiran Misner",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.6"
+  }
+}
